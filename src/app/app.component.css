@@ -1,0 +1,36 @@
+#header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header img {
+    max-width: 300px;
+    border: 1px solid black;
+    box-shadow: 2px 5px 2px rgb(166, 166, 166)
+}
+
+h3#city {
+    background-color: rgb(176, 137, 202);
+    padding: 4px;
+    border-style: dotted;
+    margin-right: 5em;
+    margin-left: 5em;
+    
+}
+
+h5#tagLine {
+    font-size: 16px;
+    color: rgb(20, 15, 68);
+    font-style: oblique;
+}
+
+p#aboutMe {
+    color: rgb(60, 29, 80);
+    font-weight: bold;
+    padding-right: 5em;
+    padding-left: 5em;
+}
+
+app-skills{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

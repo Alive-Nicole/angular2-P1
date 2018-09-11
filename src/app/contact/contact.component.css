@@ -1,0 +1,12 @@
+#contacts {
+    border: 3px solid rgb(22, 22, 48);
+    margin: 2px 50px;
+}
+
+#names {
+    font-weight: bold;
+}
+
+#phoneEmail {
+    font-size: 12px;
+}
